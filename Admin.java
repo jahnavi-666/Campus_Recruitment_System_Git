@@ -13,7 +13,7 @@ public class Admin {
 	 * @generated "UML to Java V5.0 (com.ibm.xtools.transform.uml2.java5.internal.UML2JavaTransform)"
 	 */
 	public Object admin_id;
-
+        public String name_return;
 	/** 
 	 * @return the admin_id
 	 * @generated "UML to Java V5.0 (com.ibm.xtools.transform.uml2.java5.internal.UML2JavaTransform)"
